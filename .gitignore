@@ -1,5 +1,7 @@
 # For this project:
 checkpoints/
+.vscode/
+pretrained_models/
 
 
 
